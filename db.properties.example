@@ -1,0 +1,7 @@
+# Smart City - Database configuration template.
+# Copy this file to db.properties and fill in your real values.
+# db.properties is git-ignored so credentials never leave your machine.
+
+db.url=jdbc:mysql://localhost:3306/smartcity?useSSL=false&serverTimezone=UTC
+db.user=root
+db.password=your_password_here
